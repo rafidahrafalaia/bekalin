@@ -1,0 +1,106 @@
+navbar-header{
+	background-color: #2e2e2e;
+}
+
+.navbar-nav > li > a{
+	color: #fff !important;
+}
+
+.navbar-nav > li > a:hover{
+	color: #ff0000 !important;
+}
+
+.agileits-login{
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+.wthree-text ul a{
+	padding-top: 2px;
+	margin-left: 82px !important;
+}
+
+.dashboard{
+	background: url(../glorious/images/bg.jpg) fixed;
+	min-height: 100vh;
+	background-size: cover !important;
+}
+
+.w3l-sub-title {
+    color: #000;
+    text-align: center;
+    margin-bottom: 1.5em;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+.w3_menu .menu-front{
+	margin-top: 1em;
+}
+
+.box-profile{
+	width: 50%;
+	margin: auto;
+	margin-top: 70px;
+}
+
+.profile-user-img{
+	border-color: #eb422a;
+	border-width: 3px;
+	height: 160px;
+	width:160px;
+	margin: auto;
+}
+
+.box-profile .list-group-item{
+	background-color:#353434;
+}
+
+.box-profile .list-group{
+	color: white;
+}
+
+.profile-username{
+	margin-top: 25px;
+	color: white;
+}
+
+.text-muted{
+	font-size: 16px !important;
+	margin-bottom: 21px;
+}
+
+.profil-set{
+	margin: auto !important;
+	width: 40%;
+	margin-top: 130px !important;
+	margin-bottom: 40px !important;
+}
+
+.read-form{
+	margin-top: 0px !important;
+	padding-top: 0px !important;
+}
+
+.box-profile{
+	border-color: #eb422a;
+	border-width: 5px;
+}
+
+.center-container{
+	min-height: 100vh;
+}
+
+.wthree-services-grid {
+	margin-bottom: 29px !important;
+	margin-bottom: 29px !important;
+}
+
+.card-body{
+	margin: auto;
+	background-color: white;
+}
+
+.card{
+	margin: auto;
+}
